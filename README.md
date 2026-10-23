@@ -1,5 +1,8 @@
 # Awesome DeepSeek Harness Plugins
 
+> English summary: an awesome list and plugin marketplace for DeepSeek Harness (dsh), with 11,000+ plugins, a self-hostable marketplace, in-harness plugin installation with usage statistics, scheduled automatic collection with format validation, and a free query API. See the Chinese sections below for the marketplace, installation, and contribution details.
+
+
 <!-- 本文件由 scripts/build-readme.mjs 从 deepseek1024.com 目录 API 自动生成，请勿手工编辑。 -->
 
 面向 [DeepSeek Harness](https://github.com/deepseek-ai/DeepSeek-Harness)（`dsh`）生态的社区插件目录，共收录 **13643** 个插件（含 PR 收录与 GitHub `dsh-plugin` topic 自动发现），目录数据更新于 2026-09-09。
